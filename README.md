@@ -8,3 +8,7 @@ This repository contains links to all the physics simulations I've made (or deve
 4) [Discrete Fourier Transform Experiments](https://github.com/swr06/DFTPen)
 5) [Rigid Body Physics Simulation (WIP)](https://github.com/swr06/Candela-Mechanics)
 6) [Cloth Simulation (WIP) (Private)](https://github.com/swr06/PhysicsSimulations/)
+
+Bucket list :
+1) Thermodynamics simulator
+2) Soft body simulator
