@@ -8,8 +8,9 @@ This repository contains links to all the physics simulations I've made (or deve
 4) [Discrete Fourier Transform Experiments](https://github.com/swr06/DFTPen)
 5) [n-Slit Young's Experiment](https://github.com/swr06/YDSE)
 6) [Volumetric Heat Transfer Simulation](https://github.com/swr06/ThermalSimulation)
-7) [Rigid Body Physics Simulation (WIP)](https://github.com/swr06/Candela-Mechanics)
-8) [Cloth Simulation (WIP) (Private)](https://github.com/swr06/PhysicsSimulations/)
+7) [Gravitational Lensing Simulation](https://github.com/swr06/Lensing)
+8) [Rigid Body Physics Simulation (WIP)](https://github.com/swr06/Candela-Mechanics)
+9) [Cloth Simulation (WIP) (Private)](https://github.com/swr06/PhysicsSimulations/)
 
 
 Bucket list :
